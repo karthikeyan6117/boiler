@@ -271,3 +271,9 @@ mv images/footer.jpeg client/assets/images
 pwd
 find
 rmdir images
+cd images
+ls --color=auto
+cd ..
+rm background.jpg website/images
+cd images
+rm background.jpg
