@@ -78,3 +78,6 @@ cd src
 pwd
 ls --color=auto
 more index.js
+cd has
+cd
+cd /workspace/project/freeCodeCamp/node_modules/has
