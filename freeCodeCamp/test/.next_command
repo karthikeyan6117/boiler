@@ -347,3 +347,4 @@ rm roboto.woff
 cd ..
 rmdir fonts
 rm --help
+rm -r fonts
