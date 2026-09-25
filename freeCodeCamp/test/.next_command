@@ -277,3 +277,10 @@ cd ..
 rm background.jpg website/images
 cd images
 rm background.jpg
+cd ..
+rmdir images
+cd images
+ls --color=auto
+rm website
+cd ..
+rmdir images
