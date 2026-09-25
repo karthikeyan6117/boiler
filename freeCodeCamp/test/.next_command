@@ -309,3 +309,4 @@ cd ..
 ls --color=auto
 find CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
+find
