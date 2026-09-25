@@ -249,3 +249,4 @@ touch header.png
 mv header.png ..
 ls --color=auto
 cd ..
+ls --color=auto
