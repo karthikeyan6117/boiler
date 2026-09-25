@@ -288,3 +288,24 @@ ls --color=auto
 cd assets
 mkdir icons
 mkdir client/assets/icons
+mv CodeAlly.svg icons
+mv CodeAlly.svg clients/assets/icons
+touch CodeAlly.svg
+mv CodeAlly.svg clients/assets/icons
+ls --color=auto
+cd CodeAlly.svg
+mkdir CodeAlly.svg
+touch CodeAlly.svg
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd icons
+ls --color=auto
+cd ..
+cd ..
+cd ..
+ls --color=auto
+find CodeAlly.svg
+mv CodeAlly.svg client/assets/icons
