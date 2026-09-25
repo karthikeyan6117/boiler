@@ -247,3 +247,4 @@ cd /workspace/project/website/images
 ls --color=auto
 touch header.png
 mv header.png ..
+ls --color=auto
