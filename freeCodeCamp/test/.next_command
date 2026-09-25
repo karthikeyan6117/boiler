@@ -82,3 +82,6 @@ cd has
 cd
 cd /workspace/project/freeCodeCamp/node_modules/has
 cd /workspace/project/freeCodeCamp/node_modules
+cd ..
+cd /workspace/project/freeCodeCamp/node_modules
+cd ../..
