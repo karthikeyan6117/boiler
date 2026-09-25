@@ -182,3 +182,6 @@ find -name src
 pwd
 find
 cd client
+mkdir assests
+rmdir assests
+mkdir assets
