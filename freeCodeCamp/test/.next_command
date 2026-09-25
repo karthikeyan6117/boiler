@@ -348,3 +348,5 @@ cd ..
 rmdir fonts
 rm --help
 rm -r fonts
+find
+ls --color=auto
