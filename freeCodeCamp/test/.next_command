@@ -224,3 +224,26 @@ cd /workspace/project/website/client/assets/images
 cd ../../..
 cd images
 ls --color=auto
+mv header.png website
+mv header.png ..
+cd /workspace/project/website/images
+mv header.png ..
+mv header.png website
+mv header.png ..
+cd website
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+cd website
+cd ..
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+cd /workspace/project/website/images
+ls --color=auto
+touch header.png
+mv header.png ..
