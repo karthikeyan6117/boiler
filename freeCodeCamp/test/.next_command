@@ -320,3 +320,8 @@ cd assets
 ls --color=auto
 mkdir fonts
 mkdir client/assets/fonts
+mkdir client/assets/fonts/roboto-bold.woff
+mkdir assets/fonts/roboto-bold.woff
+mkdir fonts/roboto-bold.woff
+touch fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-bold.woff
