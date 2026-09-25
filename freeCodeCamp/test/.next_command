@@ -91,3 +91,4 @@ mkdir web
 rmdir web
 mkdir website
 ls --color=auto
+cd website
