@@ -186,3 +186,4 @@ mkdir assests
 rmdir assests
 mkdir assets
 cd assets
+mkdir images
