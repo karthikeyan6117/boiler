@@ -284,3 +284,4 @@ ls --color=auto
 rm website
 cd ..
 rmdir images
+ls --color=auto
