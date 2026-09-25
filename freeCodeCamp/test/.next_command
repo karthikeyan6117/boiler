@@ -185,3 +185,4 @@ cd client
 mkdir assests
 rmdir assests
 mkdir assets
+cd assets
