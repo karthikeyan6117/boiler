@@ -175,3 +175,4 @@ mv styles.css client/src
 clear
 find
 find client
+find --help
