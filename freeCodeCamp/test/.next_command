@@ -124,3 +124,11 @@ __vsc_prompt_cmd_original
 cp background.jpg images
 cd images
 ls --color=auto
+cd
+ls --color=auto
+cd /workspace/project/freeCodeCamp/node_modules
+cd project
+cd ..
+cd ..
+ls --color=auto
+cd website
