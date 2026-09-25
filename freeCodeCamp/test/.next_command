@@ -85,3 +85,4 @@ cd /workspace/project/freeCodeCamp/node_modules
 cd ..
 cd /workspace/project/freeCodeCamp/node_modules
 cd ../..
+ls --color=auto
