@@ -285,3 +285,6 @@ rm website
 cd ..
 rmdir images
 ls --color=auto
+cd assets
+mkdir icons
+mkdir client/assets/icons
