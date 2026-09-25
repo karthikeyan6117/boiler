@@ -256,3 +256,15 @@ find -name images
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+mv footer.jpeg client/assests/images
+touch footer.jpeg
+mv footer.jpeg client/assests/images
+cd images
+touch footer.jpeg
+cd ..
+mv footer.jpeg client/assests/images
+cd images
+ls --color=auto
+cd ..
+mv footer.jpeg client/assets/images
+mv images/footer.jpeg client/assets/images
