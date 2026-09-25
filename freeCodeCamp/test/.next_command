@@ -189,3 +189,36 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+cd ..
+cd ..
+cd ..
+cd website
+cd images
+cd website
+cd ../../..
+cd website
+cd project
+cd website
+cd images
+cd ../../..
+pwd
+cd project
+cd website
+pwd
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 4cc31836-f87f-4fd5-ba63-3f7daf4b4e98
+cat /proc/self/environ
+echo -n 4cc31836-f87f-4fd5-ba63-3f7daf4b4e98
+cd images
+cd ../..
+cd website
+cd images
+cd ../..
+cd ..
+cd project
+cd website
+cd images
+cd ../../..
+cd /workspace/project/website/client/assets/images
+cd ../../..
