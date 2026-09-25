@@ -87,3 +87,6 @@ cd /workspace/project/freeCodeCamp/node_modules
 cd ../..
 ls --color=auto
 clear
+mkdir web
+rmdir web
+mkdir website
