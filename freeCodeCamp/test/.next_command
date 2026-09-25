@@ -325,3 +325,10 @@ mkdir assets/fonts/roboto-bold.woff
 mkdir fonts/roboto-bold.woff
 touch fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
+touch client/assets/fonts/roboto-light.woff
+touch client/assets/fonts/roboto-bold.woff
+cd ..
+cd ..
+touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
